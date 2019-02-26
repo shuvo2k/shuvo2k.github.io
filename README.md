@@ -1,2 +1,2 @@
 # fictionalBusiness 
-live : shuvo2k.fbusiness.github.io 
+live : shuvo2k.github.io 
